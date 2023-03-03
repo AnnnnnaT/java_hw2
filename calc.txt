@@ -1,0 +1,2 @@
+мар. 03, 2023 2:51:26 PM task4 main
+INFO: result received
